@@ -4,6 +4,7 @@ Este é um gerador de senha aleatória desenvolvido com HTML, CSS e JavaScript. 
 
 ## Visualize o projeto
 (https://github.com/Hyouem/password-generator)
+(https://password-generator-ten-pi-11.vercel.app/)
 
 ## Funcionalidades
 
