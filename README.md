@@ -3,12 +3,14 @@
 Este é um gerador de senha aleatória desenvolvido com HTML, CSS e JavaScript. Ele gera senhas seguras e aleatórias com base nos parâmetros fornecidos pelo usuário, como comprimento da senha e caracteres especiais.
 
 ## Visualize o projeto
-(https://github.com/Hyouem/password-generator)
 
-(https://password-generator-ten-pi-11.vercel.app/)
+<img width="1919" height="907" alt="Captura de tela 2026-05-13 155353" src="https://github.com/user-attachments/assets/54896929-4eb0-4032-81c2-29158ffeaf2f" />
+
+---->(https://github.com/Hyouem/password-generator)
+
+---->(https://password-generator-ten-pi-11.vercel.app/)
 
 ## Funcionalidades
-<img width="1919" height="907" alt="Captura de tela 2026-05-13 155353" src="https://github.com/user-attachments/assets/54896929-4eb0-4032-81c2-29158ffeaf2f" />
 
 - Geração de senhas aleatórias com opções personalizáveis.
 - Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
