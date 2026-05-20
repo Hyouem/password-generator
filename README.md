@@ -1,41 +1,38 @@
-# Gerador de Senha
+🔐 Password Generator
 
-Este é um gerador de senha aleatória desenvolvido com HTML, CSS e JavaScript. Ele gera senhas seguras e aleatórias com base nos parâmetros fornecidos pelo usuário, como comprimento da senha e caracteres especiais.
+A modern and responsive password generator built with HTML, CSS, and JavaScript. The application allows users to generate secure and customizable passwords based on selected criteria such as length, uppercase letters, numbers, and special characters.
 
-## Visualize o projeto
+🌐 Live Demo
+🔗 Deploy: Password Generator App
+💻 Repository: GitHub Repository
+📸 Preview
+<img width="1919" height="907" alt="Password Generator Preview" src="https://github.com/user-attachments/assets/54896929-4eb0-4032-81c2-29158ffeaf2f" />
+🚀 Features
+Generate strong and random passwords
+Custom password length selection
+Toggle options for:
+Uppercase letters
+Lowercase letters
+Numbers
+Special characters
+Copy generated password to clipboard with a single click
+Responsive and clean user interface
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+📂 How to Run Locally
+Clone the repository:
+git clone https://github.com/Hyouem/password-generator.git
+Navigate to the project folder:
+cd password-generator
+Open the index.html file in your browser.
+📌 Project Purpose
 
-<img width="1919" height="907" alt="Captura de tela 2026-05-13 155353" src="https://github.com/user-attachments/assets/54896929-4eb0-4032-81c2-29158ffeaf2f" />
+This project was developed to practice front-end fundamentals, DOM manipulation, and JavaScript logic while building a practical and useful security-related application.
 
----->(https://github.com/Hyouem/password-generator)
+🤝 Contributing
 
----->(https://password-generator-ten-pi-11.vercel.app/)
+Contributions, suggestions, and improvements are welcome.
 
-## Funcionalidades
-
-- Geração de senhas aleatórias com opções personalizáveis.
-- Opções para incluir letras maiúsculas, minúsculas, números e caracteres especiais.
-- Botão para copiar a senha gerada para a área de transferência.
-
-## Como Usar
-
-1. Abra o arquivo `index.html` em seu navegador da web.
-2. Defina a quantidade de caracteres desejada para a senha.
-3. Marque as opções de acordo com os tipos de caracteres que deseja incluir na senha.
-4. Clique no botão "Gerar senha" para obter uma senha aleatória.
-5. Se desejar, clique no ícone de cópia para copiar a senha para a área de transferência.
-
-## Pré-requisitos
-
-Não há pré-requisitos específicos para utilizar este gerador de senha.
-
-## Contribuindo
-
-Este é um projeto de código aberto e contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
-
-## Autor
-
-## Maurício Dos Santos
-
-GitHub: https://github.com/Hyouem
-
-LinkedIn: https://www.linkedin.com/in/mauricio-dos-santos-
+Feel free to fork the repository, open issues, or submit pull requests.
