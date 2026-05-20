@@ -51,12 +51,3 @@ Open the project folder and run the `index.html` file in your browser.
 ## 📌 Purpose
 
 This project was created to improve JavaScript fundamentals, DOM manipulation, and front-end development skills through a practical application focused on user security and usability.
-
----
-
-## 👨‍💻 Author
-
-### Maurício Dos Santos
-
-- GitHub: https://github.com/Hyouem
-- LinkedIn: https://www.linkedin.com/in/mauricio-dos-santos-
